@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MariahEinzbern
+- 👋 Hi, I’m @MariEinz
 - 👀 I’m interested in combining music and programming!
 - 🌱 I’m currently taking a computer science degree
 
